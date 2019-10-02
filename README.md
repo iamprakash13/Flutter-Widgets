@@ -1,6 +1,9 @@
 # Flutter-Widgets
 Add Here handful of widgets with proper documentation below. I'll appreciate your contribution. Lets create widgets with Flutter & Dart!
 
+If you found some awesome resource (or) created a awesome widget in Flutter, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/iamprakash13/Flutter-Widgets/contribution.md) (they're very simple, please take a look).
+
+
 ## Steps to follow:
 * Fork This [Repo](https://github.com/iamprakash13/Flutter-Widgets/)
 * Create folder name as "Widget Name"
@@ -13,6 +16,8 @@ ______
 ## Widgets:
 
 
+
+## Animations & Dynamic Widgets:
 
 
 ______
