@@ -1,0 +1,16 @@
+{
+    "name": "Center",
+    "params": {
+        "name": "Container",
+        "params": {
+            "child": {
+                "name": "Text",
+                "params": {
+                    "0": "Hi Yohan Malshika"
+                }
+            },
+            "color": "#Color(0xffff2dcc)",
+            "padding": "#EdgeInsets.all(16)"
+        }
+    }
+}
