@@ -1,6 +1,6 @@
 # Flutter-Widgets
 
-![Icon](/assets/artboard-1.png)
+![Icon](/assets/Artboard – 1.png)
 
 
 Add Here handful of widgets with proper documentation below. I'll appreciate your contribution. Lets create widgets with Flutter & Dart!
