@@ -1,6 +1,6 @@
 # Flutter-Widgets
 
-![Icon](/assets/icon.png)
+![Icon](/assets/ic.png)
 
 
 Add Here handful of widgets with proper documentation below. I'll appreciate your contribution. Lets create widgets with Flutter & Dart!
