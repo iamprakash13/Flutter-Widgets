@@ -26,6 +26,10 @@ ______
 
 ______
 
+## Flutter App Examples:
+1. [Flutter: BMI Calculator App ](https://github.com/imSanjaySoni/BMI-Calculator-with-flutter)
+
+
 ## Learning Resources:
 
 + [Getting Started](https://flutter.io/get-started/install/)
