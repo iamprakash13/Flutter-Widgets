@@ -12,7 +12,8 @@ description: A new Flutter project.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 version: 1.0.0+1
-
+module:
+  androidX: true
 environment:
   sdk: ">=2.1.0 <3.0.0"
 
@@ -28,8 +29,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-builders: 
-  json_widget: any    
+#builders: 
+#  json_widget: any    
 
 
 # For information on the generic Dart part of this file, see the
