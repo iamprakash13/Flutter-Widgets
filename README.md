@@ -42,4 +42,4 @@ ______
 + [FlutterDevs List](https://twitter.com/flutterfyi/lists/flutter-peeps)
 + [Awesome-Flutter](https://github.com/Solido/awesome-flutter)
 + [Flutter examples](https://github.com/flutter/flutter/tree/master/examples)
-______
++ [Flutter tutorials for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
