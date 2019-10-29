@@ -11,30 +11,30 @@ class _ExpandedExampleState extends State<ExpandedExample> {
     return SafeArea(
       child: Scaffold(
           body: Container(
-            width: MediaQuery.of(context).size.width,
-            child: Row(
-              children: <Widget>[
-                Expanded(
-                  flex: 10,
-                  child: Container(
-                    color: Colors.red,
-                    ),
-                  ),
-                Expanded(
-                  flex: 5,
-                  child: Container(
-                    color: Colors.yellow,
-                    ),
-                  ),
-                Expanded(
-                  flex: 2,
-                  child: Container(
-                    color: Colors.green,
-                    ),
-                  )
-              ],
+        width: MediaQuery.of(context).size.width,
+        child: Row(
+          children: <Widget>[
+            Expanded(
+              flex: 10,
+              child: Container(
+                color: Colors.red,
               ),
-            )),
-      );
+            ),
+            Expanded(
+              flex: 5,
+              child: Container(
+                color: Colors.yellow,
+              ),
+            ),
+            Expanded(
+              flex: 2,
+              child: Container(
+                color: Colors.green,
+              ),
+            )
+          ],
+        ),
+      )),
+    );
   }
 }
