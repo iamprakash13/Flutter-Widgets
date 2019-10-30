@@ -42,4 +42,9 @@ ______
 + [FlutterDevs List](https://twitter.com/flutterfyi/lists/flutter-peeps)
 + [Awesome-Flutter](https://github.com/Solido/awesome-flutter)
 + [Flutter examples](https://github.com/flutter/flutter/tree/master/examples)
-______
++ [Flutter GoogleBlog](https://developers.googleblog.com/search/label/flutter)
++ [Flutter Medium](https://medium.com/flutter)
++ [Flutter Medium Comunity](https://medium.com/flutter-community)
++ [Flutter Medium Comunity (ES)](https://medium.com/comunidad-flutter)
++ [Flutter Blog by GeekyAnts](https://blog.geekyants.com/flutter/home)
++ [FlutterDevs Blog](http://flutterdevs.com/blog/)
