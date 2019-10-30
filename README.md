@@ -48,3 +48,4 @@ ______
 + [Flutter Medium Comunity (ES)](https://medium.com/comunidad-flutter)
 + [Flutter Blog by GeekyAnts](https://blog.geekyants.com/flutter/home)
 + [FlutterDevs Blog](http://flutterdevs.com/blog/)
++ [Flutter tutorials for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
