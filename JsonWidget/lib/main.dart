@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_jsonwidget/mywidget.dart' as generated;
 
+import 'expanded_example.dart';
+
+//import './mywidget.dart' as generated
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -32,7 +34,18 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: generated.GeneratedWidget(),
+      body: Column(
+        children: <Widget>[
+          ListTile(leading: Icon(Icons.code), title: Text('Flutter Examples')),
+          ListTile(
+            title: Text('Expanded widget'),
+            onTap: () {
+              Navigator.push(context,
+                  MaterialPageRoute(builder: (context) => ExpandedExample()));
+            },
+          )
+        ],
+      ),
     );
   }
 }
