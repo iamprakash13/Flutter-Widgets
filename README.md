@@ -30,6 +30,7 @@ ______
 
 ## Flutter App Examples:
 1. [Flutter: BMI Calculator App ](https://github.com/imSanjaySoni/BMI-Calculator-with-flutter)
+2. [Flutter: Basic Calculator App ](https://github.com/hemangdtu/calculator_ui_flutter)
 
 
 ## Learning Resources:
